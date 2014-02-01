@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicensePatchExampleMvcApplication", "LicensePatchExampleMvcApplication\LicensePatchExampleMvcApplication.csproj", "{A980878B-CD18-4CAE-9B79-D06DFC799186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portable.Licensing", "Portable.Licensing\Portable.Licensing.csproj", "{6D2B800C-C252-4A33-BA05-904AE5B79417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A980878B-CD18-4CAE-9B79-D06DFC799186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A980878B-CD18-4CAE-9B79-D06DFC799186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A980878B-CD18-4CAE-9B79-D06DFC799186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A980878B-CD18-4CAE-9B79-D06DFC799186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2B800C-C252-4A33-BA05-904AE5B79417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2B800C-C252-4A33-BA05-904AE5B79417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2B800C-C252-4A33-BA05-904AE5B79417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2B800C-C252-4A33-BA05-904AE5B79417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

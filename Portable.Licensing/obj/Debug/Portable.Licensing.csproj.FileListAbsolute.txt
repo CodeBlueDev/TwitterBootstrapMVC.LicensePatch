@@ -1,0 +1,12 @@
+E:\Dev\Portable.Licensing\src\Portable.Licensing\obj\Debug\Portable.Licensing.csprojResolveAssemblyReference.cache
+E:\Dev\Portable.Licensing\Build\Portable.Licensing.XML
+E:\Dev\Portable.Licensing\Build\Portable.Licensing.dll
+E:\Dev\Portable.Licensing\Build\Portable.Licensing.pdb
+E:\Dev\Portable.Licensing\src\Portable.Licensing\obj\Debug\Portable.Licensing.dll
+E:\Dev\Portable.Licensing\src\Portable.Licensing\obj\Debug\Portable.Licensing.pdb
+E:\Blog\Reversing TwitterBootstrapMVC\TwitterBootstrapMVC.LicensePatch\Portable.Licensing\obj\Debug\Portable.Licensing.csprojResolveAssemblyReference.cache
+E:\Blog\Reversing TwitterBootstrapMVC\TwitterBootstrapMVC.LicensePatch\Portable.Licensing\obj\Debug\Portable.Licensing.dll
+E:\Blog\Reversing TwitterBootstrapMVC\TwitterBootstrapMVC.LicensePatch\Portable.Licensing\obj\Debug\Portable.Licensing.pdb
+E:\Blog\Reversing TwitterBootstrapMVC\Build\Portable.Licensing.XML
+E:\Blog\Reversing TwitterBootstrapMVC\Build\Portable.Licensing.dll
+E:\Blog\Reversing TwitterBootstrapMVC\Build\Portable.Licensing.pdb

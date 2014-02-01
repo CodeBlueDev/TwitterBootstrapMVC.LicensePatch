@@ -1,0 +1,5 @@
+E:\Dev\Portable.Licensing\Build\Portable.Licensing.XML
+E:\Dev\Portable.Licensing\Build\Portable.Licensing.dll
+E:\Dev\Portable.Licensing\Build\Portable.Licensing.pdb
+E:\Dev\Portable.Licensing\src\Portable.Licensing\obj\Release\Portable.Licensing.dll
+E:\Dev\Portable.Licensing\src\Portable.Licensing\obj\Release\Portable.Licensing.pdb
